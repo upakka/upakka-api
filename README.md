@@ -2,5 +2,6 @@
 This will help out will all of your dev related needs!
 TODO:
 Api possible endpoints:
-Search
-Widget embeds
+Search,
+Widget embeds,
+Fetching products individually
